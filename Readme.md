@@ -173,3 +173,4 @@ Relacionais
 >= maior ou igual
 <= menor ou igual
 Raiz quadrada
+# github-course
